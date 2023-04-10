@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![orakib's 42 stats](https://badge.mediaplus.ma/greenbinary/orakib)](https://github.com/oakoudad/badge42)
 <!--
 **Jebbril/Jebbril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
